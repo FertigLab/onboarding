@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Lab Events and Meetings
+title: Lab Events & Meetings
 nav_order: 3
 ---
 
-# Lab Events and Meetings
+# Lab Events & Meetings
 {: .no_toc }
 
 ## Table of contents
