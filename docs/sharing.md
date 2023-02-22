@@ -14,7 +14,7 @@ nav_order: 8
 
 ---
 
-We expect all data to be shared upon publication. Unpublished lab materials, including but not limited to software, data, manuscript drafts, and grants are lab property. Software and code under construction will be managed on a private github repository in FertigLab and shared with Elana, and made public at the time of publication. These materials may not be presented or shared with anyone outside the lab without Elana’s consent and consent of all other collaborating PIs on the project. This expectation of confidentiality extends to co-mentored students who attend the Fertig lab meetings.
+We expect all data to be shared upon publication. Unpublished lab materials, including but not limited to software, data, manuscript drafts, and grants are lab property. Software and code under construction will be managed on a private GitHub repository in FertigLab and shared with Elana, and made public at the time of publication. These materials may not be presented or shared with anyone outside the lab without Elana’s consent and consent of all other collaborating PIs on the project. This expectation of confidentiality extends to co-mentored students who attend the Fertig Lab meetings.
 
 <!-- just_the_docs:
   # Define which collections are used in just-the-docs
