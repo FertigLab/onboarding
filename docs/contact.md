@@ -16,12 +16,12 @@ nav_order: 21
 ---
 
 ## Elana's contact
-<a href = "mailto: ejfertig@jhmi.edu">ejfertig@jhmi.edu</a> (email)<br>
+<a href = "mailto:ejfertig@jhmi.edu">ejfertig@jhmi.edu</a> (email)<br>
 <a href="https://twitter.com/FertigLab" target="_blank">@FertigLab</a> (Twitter)
 
 ## Alisa Moore, Administrative Assistant
 (410) 614-3432 (office)<br> 
-<a href = "mailto: mooreal@jhmi.edu">mooreal@jhmi.edu</a> (email)
+<a href = "mailto:mooreal@jhmi.edu">mooreal@jhmi.edu</a> (email)
 
 ## Division Website
 
