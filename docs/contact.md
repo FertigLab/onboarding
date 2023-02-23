@@ -15,7 +15,7 @@ nav_order: 21
 
 ---
 
-## Elana's contact
+## Elana's Contact
 <a href = "mailto:ejfertig@jhmi.edu">ejfertig@jhmi.edu</a> (email)<br>
 <a href="https://twitter.com/FertigLab" target="_blank">@FertigLab</a> (Twitter)
 
