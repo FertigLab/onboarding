@@ -29,8 +29,7 @@ nav_order: 21
 
 ## Lab Mailing Address
 
-Elana Fertig
-
+Elana Fertig<br>
 The Bunting-Blaustein Cancer Research Building<br>
 1650 Orleans St, Room 490<br>
 Baltimore, MD 21287
