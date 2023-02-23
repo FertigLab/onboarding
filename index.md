@@ -2,11 +2,11 @@
 layout: default
 title: Home
 nav_order: 1
-description: "Fertig Lab Onboarding Guide and Information"
+description: "Onboarding Guide and Information"
 permalink: /
 ---
 
-<img src="SiteLogo150.png" alt="Fertig Lab Logo" style="float:left;width:130px;height:150px;" style= "margin:right;5px;">
+<img src="SiteLogo150.png" alt="Fertig Lab Logo" style="float:left;width:130px;height:150px;" style= "margin:right;2px;">
 
 # Welcome to Fertig Lab!
 {: .fs-9 }
