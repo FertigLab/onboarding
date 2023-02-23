@@ -11,7 +11,7 @@ permalink: /
 # Welcome to Fertig Lab!
 {: .fs-9 }
 
-Fertig Lab Onboarding Guide and Information
+Onboarding Guide and Information
 {: .fs-6 .fw-300 }
 
 
