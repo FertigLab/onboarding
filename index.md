@@ -6,6 +6,8 @@ description: "Fertig Lab Onboarding Guide and Information"
 permalink: /
 ---
 
+<img src="SiteLogo150.png" alt="Fertig Lab Logo">
+
 # Welcome to Fertig Lab!
 {: .fs-9 }
 
