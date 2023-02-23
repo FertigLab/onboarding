@@ -2,7 +2,7 @@ title: Fertig Lab
 description: A website for Fertig Lab Onboarding and Information
 theme: just-the-docs
 # Set a path/url to a favicon that will be displayed by the browser
-favicon: FertigLabFavicon.ico
+favicon_ico: FertigLabFavicon.png
 
 url: https://juliambowden.github.io/vigilant-fishstick
 
