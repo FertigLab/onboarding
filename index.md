@@ -6,7 +6,7 @@ description: "Fertig Lab Onboarding Guide and Information"
 permalink: /
 ---
 
-<img src="SiteLogo150.png" alt="Fertig Lab Logo" style="float:left;width:130px;height:150px;">
+<img src="SiteLogo150.png" alt="Fertig Lab Logo" style="float:left;width:130px;height:150px;" style= "margin:right;10px;">
 
 # Welcome to Fertig Lab!
 {: .fs-9 }
