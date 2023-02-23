@@ -31,10 +31,11 @@ Lab members are encouraged to communicate about their research through public so
 ## Accounts
 
 Lab members are expected to have accounts and utilize the following resources: 
-*Slack (FertigLab)
-*Dropbox 
-*GitHub
-*Marcc computing cluster
+
+- Slack (FertigLab)
+- Dropbox
+- GitHub
+- Marcc computing cluster
 
 <!-- just_the_docs:
   # Define which collections are used in just-the-docs
