@@ -22,7 +22,7 @@ We use Slack (FertigLab) for rapid communication within the lab. If you’d send
 
 ## Email and Texting
 
-Elana monitors her email <a href = "mailto: ejfertig@jhmi.edu">(ejfertig@jhmi.edu)</a>, but many communications may be lost due to the extensive and relentless inbox. Lab members are encouraged instead to use Slack communications, and either use the email app within Slack to send emails there or use snippets. Lab members may also text Elana (301-801-0138), but are encouraged to do so only in cases where immediate communication is necessary.
+Elana monitors her email <a href = "mailto:ejfertig@jhmi.edu">(ejfertig@jhmi.edu)</a>, but many communications may be lost due to the extensive and relentless inbox. Lab members are encouraged instead to use Slack communications, and either use the email app within Slack to send emails there or use snippets. Lab members may also text Elana (301-801-0138), but are encouraged to do so only in cases where immediate communication is necessary.
 
 ## Social Media
 
