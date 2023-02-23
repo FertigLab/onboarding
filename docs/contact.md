@@ -16,11 +16,11 @@ nav_order: 21
 ---
 
 ## Elana's contact
-<a href = "mailto: ejfertig@jhmi.edu">ejfertig@jhmi.edu</a> (email) &nbsp; 
+<a href = "mailto: ejfertig@jhmi.edu">ejfertig@jhmi.edu</a> (email)<br>
 <a href="https://twitter.com/FertigLab" target="_blank">@FertigLab</a> (Twitter)
 
 ## Alisa Moore, Administrative Assistant
-(410) 614-3432 (office) &nbsp; 
+(410) 614-3432 (office)<br> 
 <a href = "mailto: mooreal@jhmi.edu">mooreal@jhmi.edu</a> (email)
 
 ## Division Website
@@ -31,8 +31,8 @@ nav_order: 21
 
 Elana Fertig
 
-The Bunting-Blaustein Cancer Research Building &nbsp; 
-1650 Orleans St, Room 490 &nbsp; 
+The Bunting-Blaustein Cancer Research Building<br>
+1650 Orleans St, Room 490<br>
 Baltimore, MD 21287
 
 
