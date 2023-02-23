@@ -3,7 +3,7 @@ description: A website for Fertig Lab Onboarding and Information
 theme: just-the-docs
 favicon_ico: /FertigLabFavicon.png
 
-url: https://juliambowden.github.io/vigilant-fishstick
+url: https://fertiglab.github.io/onboarding
 
 exclude:
  # from https://github.com/jekyll/jekyll/blob/master/lib/site_template/_config.yml:
