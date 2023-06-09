@@ -9,9 +9,6 @@ nav_order: 4
 
 {: .no_toc .text-delta }
 
-1. TOC
-{:toc}
-
 ---
 
 Each trainee will be assigned a project that will lead to a first (or co-first) authorship position agreed upon on the onset of the project. Successful completion of the project is required for this authorship position, and the leading author is expected to commit to completion of this project including assisting in the response to the reviewer which may span beyond their tenure in the lab. In the unexpected event that a member of the lab leaves and passes on their project to another lab member to complete for submission, the trainee completing the project may be offered the first authorship position.
