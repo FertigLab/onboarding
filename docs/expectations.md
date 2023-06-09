@@ -36,6 +36,9 @@ Within your project, Elana will serve as a sounding board for ideas, help you pl
 
 As a reflection of the equality and collegiality that is central to our group, Elana prefers being on a first-name basis with lab members and it is not necessary to refer to her as Dr. Fertig. She also actively participates in lab procedures, such as providing references on #references, discussing research projects and helping troubleshoot code, and daily logging on #slack_tasks.
 
+## Co-Mentored Trainee Role
+
+Elana will be responsible for computational training for co-mentored trainees, with an expectation of biological or clinical expertise provided by the partner co-mentor. The default expectation is that any co-mentoring PIs will be authors on papers by the trainee and put on patents for any work developed by that trainee, unless otherwise agreed to. Co-senior authorship will be expected if the amount of work completed justifies the distinction, and should be discussed by the trainee and all co-mentors prior to manuscript preparation. The Fertig lab expects the ability to use any datasets analyzed in this collaborative research for methods papers in the lab, with the understanding the first release of the dataset may be reserved for a biological paper and that anyone involved in the data generation will be included as a co-author of that methods paper. Regular joint meetings should be established between co-mentors to balance expectations and deliverables between the labs.
 
 <!-- just_the_docs:
   # Define which collections are used in just-the-docs
