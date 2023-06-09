@@ -26,7 +26,7 @@ As a member of the lab, you are expected to participate fully in the team, both 
 
 We share all raw and processed data upon publication. Unpublished lab materials, including but not limited to data, manuscript drafts, and grants are lab property. While it is Elana’s personal philosophy to be very generous in collaboratively sharing these items, sharing these materials must be discussed with and approved by her first.
 
-Lab members come from diverse personal and academic backgrounds. Respect must be shown for these differences to learn from one another (see <strong>Code of conduct</strong>). We all bring our strengths and our successes are shared as a team. Together, we exceed the sum of our parts. 
+Lab members come from diverse personal and academic backgrounds. Respect must be shown for these differences to learn from one another (see [Code of conduct](/onboarding/docs/codeofconduct.html)). We all bring our strengths and our successes are shared as a team. Together, we exceed the sum of our parts. 
 
 ## Elana's Role
 
