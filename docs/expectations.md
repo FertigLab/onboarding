@@ -40,10 +40,6 @@ As a reflection of the equality and collegiality that is central to our group, E
 
 Elana will be responsible for computational training for co-mentored trainees, with an expectation of biological or clinical expertise provided by the partner co-mentor. The default expectation is that any co-mentoring PIs will be authors on papers by the trainee and put on patents for any work developed by that trainee, unless otherwise agreed to. Co-senior authorship will be expected if the amount of work completed justifies the distinction, and should be discussed by the trainee and all co-mentors prior to manuscript preparation. The Fertig lab expects the ability to use any datasets analyzed in this collaborative research for methods papers in the lab, with the understanding the first release of the dataset may be reserved for a biological paper and that anyone involved in the data generation will be included as a co-author of that methods paper. Regular joint meetings should be established between co-mentors to balance expectations and deliverables between the labs.
 
-## Publications
-
-Post-publication trainees will be responsible for maintaining the software used in their publication for the duration of their time in the lab. When leaving the lab, you will be responsible for handing off knowledge of the software to a lab designee as described in the [Procedures for Leaving the Lab](/onboarding/docs/procedures.html) section. You will expected to teach that lab member the software and provide your contact information to answer questions that may arise subsequently.
-
 <!-- just_the_docs:
   # Define which collections are used in just-the-docs
   collections:
