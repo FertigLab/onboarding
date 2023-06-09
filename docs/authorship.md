@@ -18,6 +18,10 @@ Each trainee will be assigned a project that will lead to a first (or co-first) 
 
 To reflect our value for teamwork, all lab members may collaborate with the lead author and have the opportunity to receive co-authorship for their efforts. These co-authors are expected to contribute scientifically and participate actively in helping the leading author in the writing and editing of the manuscript. Please see <a href="http://www.icmje.org/about-icmje/faqs/icmje-recommendations/" target="_blank">ICMJE’s Uniform Requirements for Manuscripts Submitted to Biomedical Journals</a>.
 
+## Publications
+
+Post-publication trainees will be responsible for maintaining the software used in their publication for the duration of their time in the lab. When leaving the lab, you will be responsible for handing off knowledge of the software to a lab designee as described in the [Procedures for Leaving the Lab](/onboarding/docs/procedures.html) section. You will expected to teach that lab member the software and provide your contact information to answer questions that may arise subsequently.
+
 <!-- just_the_docs:
   # Define which collections are used in just-the-docs
   collections:
