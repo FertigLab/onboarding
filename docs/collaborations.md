@@ -14,7 +14,9 @@ nav_order: 5
 
 ---
 
-As a computational biology lab, the Fertig lab is highly collaborative. Members of the Fertig lab are encouraged to identify datasets and collaborations that will benefit from application of new computational methods that are being developed in the lab. However, any new collaborations or datasets coming from PIs other than Elana should be discussed with her prior to accepting the project. This is particularly critical to negotiate authorship, funding, and trainee priorities. It is expected that Elana and any lab members involved in computational training will be included as co-authors on mansucripts resulting from these collaborations. 
+As a computational biology lab, the Fertig lab is highly collaborative. Members of the Fertig lab are encouraged to identify datasets and collaborations that will benefit from application of new computational methods that are being developed in the lab. However, any new collaborations or datasets coming from PIs other than Elana should be discussed with her prior to accepting the project. This is particularly critical to negotiate authorship, funding, and trainee priorities. 
+
+It is expected that Elana and any lab members involved in computational training will be included as co-authors on mansucripts resulting from these collaborations. This will include cases in which these trainees are using laboratory pipelines or datasets to support additional publications to their primary project while they are in the lab or until their primary manuscript using that pipeline is published marking the end of their training as described in [Authorship](/onboarding/docs/authorship.html).
 
 <!-- just_the_docs:
   # Define which collections are used in just-the-docs
