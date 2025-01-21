@@ -14,7 +14,7 @@ nav_order: 6
 
 ---
 
-The Fertig lab performs genomics and single-cell analysis of clinical samples, including from clinical trials. Trainees are expected to obtain additional training and follow all IRB requirements for human subjects research in these cases. Trainees should consult details about these procedures provided from the disease program, collaborating clinical investigators, and the cancer center’s clinical research office.
+The Fertig lab performs genomics and single-cell analysis of clinical samples, including from clinical trials. Trainees are expected to obtain additional training and follow all Institutional Review Board (IRB) requirements for human subjects research in these cases. Trainees should consult details about these procedures provided from the disease program, collaborating clinical investigators, Clinical Research Office (CRO) of the University.
 
 <!-- just_the_docs:
   # Define which collections are used in just-the-docs
