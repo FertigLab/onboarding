@@ -14,7 +14,7 @@ nav_order: 17
 
 ---
 
-Elana supports the training of international students, and will negotiate with individual trainees to support appropriate visa applications as needed. Trainees requiring such visas are responsible for monitoring the deadlines of their visas. Elana must be notified of these deadlines and any changes in their visa status as soon as possible. Please note that both the HR and government decisions may take a considerable amount of time, and must be handled far in advance of visa expiration. Elana will work with you on this. More detailed information will be available from our HR representative Alisa Moore (see Contact) or the <a href="http://ois.jhu.edu" target="_blank">Office of International Services</a>.
+International trainees requiring visas are responsible for monitoring the deadlines of their visas. Elana must be notified of these deadlines and any changes in their visa status as soon as possible. Please note that both the HR and government decisions may take a considerable amount of time, and must be handled far in advance of visa expiration. Elana will work with you on this. More detailed information will be available from our HR representative Brenda Ali (see Contact).
 
 <!-- just_the_docs:
   # Define which collections are used in just-the-docs
