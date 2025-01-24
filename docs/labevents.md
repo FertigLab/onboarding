@@ -30,7 +30,7 @@ To support lab camaraderie, Elana will host an annual winter holiday lab party a
 
 ## Scheduling
 
-Timing for weekly one-on-one meetings will be scheduled when members join the lab. Elana will try to notify members if conflicts occur as soon as possible to facilitate rescheduling. Trainees are encouraged to reach out to Elana if at any time an additional meeting time is required.
+Timing for weekly one-on-one meetings will be scheduled when members join the lab. Elana will try to notify members if conflicts occur as soon as possible to facilitate rescheduling. Trainees are encouraged to reach out to Elana and her admin Danay Rodriguez if at any time an additional meeting time is required.
 
 <!-- just_the_docs:
   # Define which collections are used in just-the-docs
