@@ -14,9 +14,7 @@ nav_order: 20
 
 ---
 
-All members of the lab, along with visitors, are expected to agree with this code of conduct. We will enforce this code. We expect cooperation from all members to help ensuring a safe environment for everybody. The lab is dedicated to providing a harassment-free experience for everyone. Sexual language and imagery is generally not appropriate for any lab venue, including lab meetings, presentations, or discussions. However, do note that we work on biological matters so work-related discussions of e.g. animal reproduction are appropriate. 
-
-We expect members to follow these guidelines in all in person, phone, online communication, lab-related events, university events, conferences, etc. 
+All members of the lab, along with visitors, are expected to agree with this code of conduct. We will enforce this code. We expect cooperation from all members to help ensuring a safe environment for everybody. The lab is dedicated to providing a harassment-free experience for everyone. Sexual language and imagery is generally not appropriate for any lab venue, including lab meetings, presentations, or discussions. However, do note that we work on biological matters so work-related discussions of e.g. animal reproduction are appropriate. We expect members to follow these guidelines in all in person, phone, online communication, lab-related events, university events, conferences, etc. 
 
 
 <!-- just_the_docs:
