@@ -18,7 +18,7 @@ nav_order: 3
 
 ## Group Meetings
 
-We participate in two weekly lab meetings: The Oncology Bioinformatics group meeting (Wednesday at 1PM, 550 Building 11th floor Conference Room) and a weekly lab meeting (Tuesday at 10:00 AM, 550 Building 11th floor Conference Room). All lab members are expected to attend and participate in these meetings and possibly also group meetings offered by collaborators or related to team projects. Students at graduate student level and above are expected to present once at the Oncology Bioinformatics group meeting. Students at all levels are expected to participate in the discussion in the weekly lab meeting. Lunch will be provided to celebrate major lab successes (paper submissions, paper acceptances, grant acceptances, etc).
+We participate in a weekly lab meeting (Thursdays at 11:00 AM). All lab members are expected to attend and participate in these meetings and possibly also group meetings offered by collaborators or related to team projects. Students at graduate student level and above are expected to present once at the Oncology Bioinformatics group meeting. Students at all levels are expected to participate in the discussion in the weekly lab meeting. Lunch will be provided to celebrate major lab successes (paper submissions, paper acceptances, grant acceptances, etc).
 
 ## Hackathons
 
@@ -26,7 +26,7 @@ The lab will hold special, semi-regular lab hackathons to promote student and pr
 
 ## Lab Parties
 
-To support lab camaraderie, Elana will host an annual winter holiday lab party and other outings during the year to celebrate team successes. All lab members are encouraged to attend. Although these events are informal, the lab code of conduct will still be maintained at these events. Trainees are expected to drink responsibly if alcohol is provided and they are of age.
+To support lab camaraderie, Elana will host an annual winter holiday lab party and other outings during the year to celebrate team successes. All lab members are encouraged to attend. 
 
 ## Scheduling
 
