@@ -16,24 +16,10 @@ nav_order: 21
 ---
 
 ## Elana's Contact
-<a href = "mailto:ejfertig@jhmi.edu">ejfertig@jhmi.edu</a> (email)<br>
-<a href="https://twitter.com/FertigLab" target="_blank">@FertigLab</a> (Twitter)
+<a href = "mailto:ejfertig@som.umaryland.edu">ejfertig@som.umaryland.edu</a> (email)<br>
 
-## Alisa Moore, Administrative Assistant
-(410) 614-3432 (office)<br> 
-<a href = "mailto:mooreal@jhmi.edu">mooreal@jhmi.edu</a> (email)
-
-## Division Website
-
-<a href="https://www.rits.onc.jhmi.edu/dbb/" target="_blank">rits.onc.jhmi.edu/dbb/</a>
-
-## Lab Mailing Address
-
-Elana Fertig<br>
-The Bunting-Blaustein Cancer Research Building<br>
-1650 Orleans St, Room 490<br>
-Baltimore, MD 21287
-
+## Danay Rodriguez, Administrative Assistant
+<a href = "mailto:Danay.Rodriguez@som.umaryland.edu">Danay.Rodriguez@som.umaryland.edu</a> (email)
 
 <!-- just_the_docs:
   # Define which collections are used in just-the-docs
