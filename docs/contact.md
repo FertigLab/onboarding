@@ -22,8 +22,8 @@ nav_order: 21
 Contact to Danay to schedule a meeting with Elana.
 <a href = "mailto:Danay.Rodriguez@som.umaryland.edu">Danay.Rodriguez@som.umaryland.edu</a> (email)
 
-## Michael Ochs, Associate Professor
-Contact for guidance on math and algorithms.
+## Michael Ochs, Associate Professor, Lab manager
+Contact for guidance on algorithms, especially matrix factorization.
 <a href = "mailto:mochs@som.umaryland.edu">mochs@som.umaryland.edu</a> (email)
 
 ## Dmitrijs Lvovs, Research Associate
