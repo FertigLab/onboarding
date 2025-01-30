@@ -18,7 +18,7 @@ nav_order: 3
 
 ## Group Meetings
 
-We participate in a weekly lab meeting (Thursdays at 11:00 AM). All lab members are expected to attend and participate in these meetings and possibly also group meetings offered by collaborators or related to team projects. Students at graduate student level and above are expected to present once at the Oncology Bioinformatics group meeting. Students at all levels are expected to participate in the discussion in the weekly lab meeting. Lunch will be provided to celebrate major lab successes (paper submissions, paper acceptances, grant acceptances, etc).
+We participate in a weekly lab meeting (Thursdays at 11:00 AM). All lab members are expected to attend and participate in these meetings and possibly also group meetings offered by collaborators or related to team projects. Students at all levels are expected to participate in the discussion in the weekly lab meeting. Lunch will be provided to celebrate major lab successes (paper submissions, paper acceptances, grant acceptances, etc).
 
 ## Hackathons
 
