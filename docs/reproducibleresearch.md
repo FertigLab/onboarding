@@ -18,7 +18,9 @@ nav_order: 11
 ## General expectations
 FertigLab supports practices to facilitate reproducible research. Lab members are encouraged to follow good coding practices, including commenting of code, readable variable names, etc. I encourage trainees to share emerging protocols for coding and reproducible research with the entire group. A good and detailed resource on coding practices is [doi:10.1371/journal.pbio.1001745](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745)
 
-Computational lab members are expected to maintain their code on GitHub to maintain a record. All lab members working in the wet lab are expected to maintain a traditional lab notebook, in keeping with the procedures of the PI of that lab. These notebooks will be property of either the PI running that lab or Elana depending on the project.
+Computational lab members are expected to maintain their code on GitHub. The code review process is managed by [Dima Lvovs](/onboarding/docs/contact.html). It is expected that all lab members will participate both for their own code and in the review of other codes for lab citizenship. Dima and Elana will monitor participation by all lab members to ensure appropriate credit and distribution of responsibilities for code review.
+
+All lab members working in the wet lab are expected to maintain a traditional lab notebook, in keeping with the procedures of the PI of that lab. These notebooks will be property of either the PI running that lab or Elana depending on the project.
 
 ## Code management - minimum requirements
 
@@ -26,7 +28,7 @@ Computational lab members are expected to maintain their code on GitHub to maint
 * Changes to packages and other important code repositories shall be reviewed; if the main branch of a repository is locked, it means the repository is important;
 * Genomics studies of clinical data will undergo mandatory, independent code review prior to submission for publication;
 * A review is requested by posting a link in #codereview slack channel, review start/intention is confirmed with a ::eyes:: and conclusion is marked with a ::white_check_mark:: emoji;
-* The link should lead to a Github pul request (preferred) or to a github repository;
+* The link should lead to a Github pull request (preferred) or to a github repository;
 * At least one non-author review is required before releasing code;
 
 ### General guidelines
