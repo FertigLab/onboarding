@@ -14,7 +14,7 @@ nav_order: 14
 
 ---
 
-Full-time graduate students and postdoctoral fellows will receive funding for the Fertig lab to attend one national conference per year. Trainees will be expected to present their latest research at this meeting and are encouraged to apply for funding offered by the conference. Undergraduate students, graduate students on rotation, and techs will be encouraged to attend regional or university meetings. Trainees may arrange for additional meetings and international meetings on discussion with Elana, pending funding availability. All members are expected to follow the lab code of conduct at all conferences.
+Full-time graduate students and postdoctoral fellows will receive funding for the Fertig lab to attend one national conference per year. Trainees will be expected to present their latest research at this meeting and are encouraged to apply for funding offered by the conference. Undergraduate students, graduate students on rotation, and techs will be encouraged to attend regional or university meetings. Trainees may arrange for additional meetings and international meetings on discussion with Elana, pending funding availability.
 
 <!-- just_the_docs:
   # Define which collections are used in just-the-docs

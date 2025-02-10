@@ -19,7 +19,19 @@ nav_order: 21
 <a href = "mailto:ejfertig@som.umaryland.edu">ejfertig@som.umaryland.edu</a> (email)<br>
 
 ## Danay Rodriguez, Administrative Assistant
+Contact to Danay to schedule a meeting with Elana.
 <a href = "mailto:Danay.Rodriguez@som.umaryland.edu">Danay.Rodriguez@som.umaryland.edu</a> (email)
+
+## Michael Ochs, Associate Professor, Lab manager
+Contact for guidance on algorithms, especially matrix factorization.
+<a href = "mailto:mochs@som.umaryland.edu">mochs@som.umaryland.edu</a> (email)
+
+## Dmitrijs Lvovs, Research Associate
+Contact for guidance on software & code.
+<a href = "mailto:dlvovs@som.umaryland.edu">dlvovs@som.umaryland.edu</a> (email)
+
+
+
 
 <!-- just_the_docs:
   # Define which collections are used in just-the-docs

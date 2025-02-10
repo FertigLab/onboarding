@@ -14,7 +14,7 @@ nav_order: 9
 
 ---
 
-All university procedures will be followed for individuals leaving the lab. Moreover, as described above, all unpublished materials, including but not limited to software, data, manuscript drafts, and grants are lab property, and will be returned to the lab upon leaving. Any unpublished software or analysis scripts will be shared with Elana, ideally on the FertigLab GitHub with Elana as co-owner. In addition, the individual leaving will provide documentation and a training session to ensure continuity of this research project in the lab. All raw and processed data will be returned to the lab, along with any computing equipment provided to promote laboratory research.
+All university procedures will be followed for individuals leaving the lab. Moreover, as described above, all unpublished materials, including but not limited to software, data, manuscript drafts, and grants are lab property, and will be returned to the lab upon leaving. Any unpublished software or analysis scripts will be shared through the FertigLab GitHub. In addition, the individual leaving will provide documentation and a training session to ensure continuity of this research project in the lab. All raw and processed data will be returned to the lab, along with any computing equipment provided to promote laboratory research.
 
 <!-- just_the_docs:
   # Define which collections are used in just-the-docs
