@@ -18,9 +18,9 @@ nav_order: 21
 ## Elana's Contact
 <a href = "mailto:ejfertig@som.umaryland.edu">ejfertig@som.umaryland.edu</a> (email)<br>
 
-## Danay Rodriguez, Administrative Assistant
-Contact to Danay to schedule a meeting with Elana.
-<a href = "mailto:Danay.Rodriguez@som.umaryland.edu">Danay.Rodriguez@som.umaryland.edu</a> (email)
+## Brenda Ali, Administrative Manager
+Contact to Brenda to schedule a meeting with Elana.
+<a href = "mailto:bali@som.umaryland.edu">bali@som.umaryland.edu</a> (email)
 
 ## Michael Ochs, Associate Professor, Lab manager
 Contact for guidance on algorithms, especially matrix factorization.
