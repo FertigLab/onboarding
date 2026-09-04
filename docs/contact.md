@@ -19,7 +19,7 @@ nav_order: 21
 <a href = "mailto:ejfertig@som.umaryland.edu">ejfertig@som.umaryland.edu</a> (email)<br>
 
 ## Brenda Ali, Administrative Manager
-Contact to Brenda to schedule a meeting with Elana.
+Contact Brenda to schedule a meeting with Elana.
 <a href = "mailto:bali@som.umaryland.edu">bali@som.umaryland.edu</a> (email)
 
 ## Michael Ochs, Associate Professor, Lab manager
