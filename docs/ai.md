@@ -70,7 +70,7 @@ nav_order: 12
 
 **Resources**
 - [UMB policies](https://www.umaryland.edu/media/umb/procedures/UMB-Artificial-Intelligence-Guidelines.pdf)
-- [See this video on current policies regarding AI use for publications and grant writing:] (https://fredhutch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8eeb3bd0-ac16-4dba-858d-b38b016cff76) 
+- [See this video on current policies regarding AI use for publications and grant writing:](https://fredhutch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8eeb3bd0-ac16-4dba-858d-b38b016cff76) 
 - [Here are the associated slides: Navigating AI ethics for scientific research](https://docs.google.com/presentation/d/15RmlGNAontco7VF4EdtQFeaOl_1QKc1TVMCb79vKKz0/edit?usp=sharing)
 
 **Content adapted from template lab policies developed by [Carrie Wright](https://carriewright11.github.io)** 
