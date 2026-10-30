@@ -47,7 +47,7 @@ FertigLab is piloting [ontrack](https://github.com/FertigLab/ontrack) to assess 
 * No code should be left commented out - keep it or discard it;
 * Comments in code should elaborate on the why and not the what, the latter should be understable from variable/function names;
 
-### Additions for software Packages
+### Additions for software packages
 * Package development generally should be done in a feature branch, following the creation of an issue with description of the new functinality;
 * Issue descriptions should include a preamble, current state and desired state if applicable, bug issues shall include a reproducible example;
 * Main / master branch should be locked if the package is released;
