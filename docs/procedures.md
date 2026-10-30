@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Procedures for Leaving the Lab
-nav_order: 9
+nav_order: 20
 ---
 
 # Procedures for Leaving the Lab
