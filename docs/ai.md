@@ -1,7 +1,7 @@
 ---
 layout: default
 title: AI Policy
-nav_order: 19
+nav_order: 20
 ---
 
 # AI policy (draft, rapidly changing)
