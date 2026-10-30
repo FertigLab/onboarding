@@ -44,6 +44,7 @@ nav_order: 12
 - Grants are considered university IP, and should only be supported using approved university LLMs to protect lab information. 
 - AI can help you write grants, however, it should be used for specific tasks rather than writing large sections of the proposal such as drafting a letter of support for a collaborator, helping you understand what is required in the grant announcement, reworking text into a table or other format, understanding a new topic (check all references as AI hallucinates references)
 - Be aware that your ideas will no longer be private if you paste them into a public AI tool
+- AI may plagiarize writing from common sources, which would constitute an ethics violation.
 - AI can help inspire idea generation, but should not be used to generate ideas, for example you can ask how about a particular topic or how two things relate to one
 [This is because the NIH has policies against using AI for generating ideas](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-25-132.html)
 - Be aware of AI policies of the funder and grant before using AI to generate any materials for grant writing
@@ -58,6 +59,7 @@ nav_order: 12
 - AI should not be used for writing papers from scratch. This is because many journals have policies against this. While other journals do not have these policies, it can be difficult to tell exactly where we might submit, as we may need to submit to several journals. Most journals do allow AI for editing, however, check the journal’s policies ahead of time (that we plan to submit to)
 - Be aware that if you copy paste your writing into a commercial AI tool, that content may be kept by the tool and possibly even leaked to other users
 - Again be careful to check all references suggested by AI - many models hallucinate fake or incorrect references
+- AI may borrow text from common resources. It is your responsibility to ensure that any AI support in writing involves extensive human in the loop and plagiarism checks to avoid copying language. 
 
 **Reviewing papers**
 - AI can help you understand the context of a field but should never be used to help you review a paper.
