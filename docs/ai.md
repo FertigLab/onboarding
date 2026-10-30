@@ -64,8 +64,8 @@ nav_order: 18
 
 **Discussion of AI usage as part of lab usage**
 
-- AI usage is expected as a routine part of group practice. It is encouraged that you discuss your personal use of AI and ask for guidance on that process as part of regular meetings with your PI.
-- The university varies in reimbursement and IT policies around AI tools. Paid subscriptions for tools will be supported by the lab as part of core equipment as allowed by University IT and procurement policies, and should be discussed with your PI and departmental HR. 
+- AI usage is expected as a routine part of group practice. It is encouraged that you discuss your personal use of AI and ask for guidance on that process as part of regular meetings with Elana and senior lab members.
+- The university varies in reimbursement and IT policies around AI tools. Paid subscriptions for tools will be supported by the lab as part of core equipment as allowed by University IT and procurement policies, and should be discussed with Elana and departmental IT. 
 
 **Resources**
 - [UMB policies](https://www.umaryland.edu/media/umb/procedures/UMB-Artificial-Intelligence-Guidelines.pdf)
