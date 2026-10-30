@@ -17,6 +17,7 @@ nav_order: 12
 - Do not generate ideas for grants from AI (more details below)
 - Do not use code, references, writing etc. without checking it
 - Do not use AI that you are reviewing a paper for a journal or a submitted grant for a study section. Similar care should be taken for any other confidential material obtained from a third party source.
+- Using AI-supported writing or editing without a deep plagiarism check. Independent tools such as Grammarly can help to identify these violations. 
 
 **What is permitted (and encouraged!):** 
 - Where possible use AI for tedious tasks (example: reformatting text into a table, developing comments and unit tests for code) 
