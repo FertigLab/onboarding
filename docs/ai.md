@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Authorship
-nav_order: 18
+nav_order: 20
 ---
 
 # AI policy (draft, rapidly changing)
