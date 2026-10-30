@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AI
+title: AI Policy
 nav_order: 18
 ---
 
