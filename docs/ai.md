@@ -34,8 +34,9 @@ nav_order: 20
 
 **Code**
 - You should understand the fundamentals of coding before starting to work with LLM generated code. Once lab members are comfortable with foundations and being able to code or implement analysis methods independently, AI usage is highly encouraged to enhance efficiency. 
-- AI can help you refactor, translate, understand, and document  your code: https://github.com/fhdsl/AI_for_Efficient_Programming 
+- [AI can help you refactor, translate, understand, and document  your code:](https://github.com/fhdsl/AI_for_Efficient_Programming) 
 - You can use AI to help you write code from scratch, but you need to understand what the code is doing and be able to hand check the components of the script
+- Code should be checked to ensure that the AI-generated code is leveraging well-established, validated software with appropriate parameters whenever possible, leveraging custom code only as needed
 - AI can help to generate robust unit tests and enhance the error checking / modularization of processes
 - Scripts should be checked by hand to ensure they do not contain any malware or other sources that could inadvertently leak datasets inadvertently. 
 
